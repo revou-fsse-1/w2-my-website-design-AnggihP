@@ -30,12 +30,12 @@ Wireframe on Miro: [W2-Project-Wireframe-Anggih](https://miro.com/app/board/uXjV
 
 ### Miro (Wireframe)
 
-![Miro](assets/wireframe.jpg)
+![Miro](assets/wireframe.JPG)
 
 ### Figma (Mockup)
 
-![Figma1](assets/mockup.jpg)
+![Figma1](assets/mockup.JPG)
 
 ### Figma (Prototyping)
 
-![Figma1](assets/prototyping.jpg)
+![Figma1](assets/prototyping.JPG)
